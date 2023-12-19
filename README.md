@@ -42,7 +42,7 @@ Create a JavaScript application that fulfills the following requirements:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salary Calculator</title>
+    <title>Mortgage Calculator</title>
     <!-- Include your external CSS file if styling is added -->
     <!-- <link rel="stylesheet" href="styles.css"> -->
     <script>
