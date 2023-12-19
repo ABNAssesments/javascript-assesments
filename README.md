@@ -2,7 +2,7 @@
 
 #### Task:
 
-Create a JavaScript application that fulfills the following requirements:
+Create a Javascript application (in a framework of your own preference e.g. Angular/Vue) that fulfills the following requirements:
 
 ##### Mortgage Calculator:
 
@@ -14,7 +14,8 @@ Create a JavaScript application that fulfills the following requirements:
      - Display the total salary, with the following sum (Salary applicant 1 + (0.7 * Salary applicant 2)
      - Select the 'Length of mortgage in years' (looptijd) (values range from 1-30)
      - A button to trigger the calculation. The result should be displayed in months (divide by 12). (Yearly salary * looptijd * 0.25 (imaginary interest/quote) / 12
-     - Make the page multilingual (EN/NL)
+     - Add a unittest
+     - Make the page multilingual (EN/NL) - Bonus (use i18n package for example)
 
 2. **JavaScript Logic:**
    - Write JavaScript logic to calculate the total costs of the mortgage in months.
@@ -25,15 +26,10 @@ Create a JavaScript application that fulfills the following requirements:
 
 #### Evaluation Criteria:
 
-- **Correctness:** Ensure the calculation logic is accurate.
 - **Code Structure:** Organize your code in a clear and maintainable manner.
 - **HTML/JavaScript Best Practices:** Follow best practices for HTML and JavaScript.
 - **Error Handling:** Implement basic error handling for input values.
 - **Styling:** Consider adding minimal styling for a better user experience.
-
-#### Resources:
-
-- Avoid using external libraries for this task.
 
 #### Template:
 
