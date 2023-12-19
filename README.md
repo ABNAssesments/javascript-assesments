@@ -12,12 +12,12 @@ Create a JavaScript application that fulfills the following requirements:
      - Input field for "Your Monthly Salary."
      - Input field for "Partner's Monthly Salary." (Only when there is a 2nd applicant)
      - Display the total salary, with the following sum (Salary applicant 1 + (0.7 * Salary applicant 2)
-     - Select the 'Length of mortgage in years' (values range from 1-30) 
-     - A button to trigger the calculation. The result should be displayed in months (divide by 12). (Yearly salary * Looptijd * 0.25 (imaginary interest/quote) / 12
+     - Select the 'Length of mortgage in years' (looptijd) (values range from 1-30)
+     - A button to trigger the calculation. The result should be displayed in months (divide by 12). (Yearly salary * looptijd * 0.25 (imaginary interest/quote) / 12
      - Make the page multilingual (EN/NL)
 
 2. **JavaScript Logic:**
-   - Write JavaScript logic to calculate the total monthly income.
+   - Write JavaScript logic to calculate the total costs of the mortgage in months.
    - Use the provided template or create your own structure.
 
 3. **Output:**
