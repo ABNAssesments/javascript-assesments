@@ -2,7 +2,7 @@
 
 #### Task:
 
-Create a Javascript application (in a framework of your own preference e.g. Angular/Vue) that fulfills the following requirements:
+Create a Javascript application (in a framework of your own preference e.g. Angular/Vue) that fulfills the following requirements (in a new branch):
 
 ##### Mortgage Calculator:
 
